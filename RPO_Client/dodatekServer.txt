@@ -1,0 +1,28 @@
+    server/protocol.h \
+    components/cpu.h \
+    components/disk.h \
+    components/gpu.h \
+    components/network.h \
+    components/ram.h \
+    components/system.h \
+    components/component.h \
+    server/server.h \
+    server/auth.h \
+    server/config.h \
+    
+components/cpu.cpp \
+components/disk.cpp \
+components/gpu.cpp \
+components/network.cpp \
+components/ram.cpp \
+components/system.cpp \
+components/component.cpp \
+server/server.cpp \
+server/main.cpp \
+server/auth.cpp \
+server/config.cpp \
+server/main.cpp \
+server/CMakeLists.txt \
+server/configTemplate.cfg \
+server/README.md \
+server/porotocol.cpp \
